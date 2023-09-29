@@ -1,0 +1,2 @@
+# Black_jack_game
+Blackjack, also known as 21, is a popular card game played in casinos worldwide. In this game, players aim to beat the dealer by obtaining a hand value as close to 21 as possible without exceeding it. Players are dealt two cards and can choose to "hit" to receive more cards or "stand" to keep their current hand. The game combines strategy and luck, making it both thrilling and challenging. The goal is to achieve a hand with a higher value than the dealer's without going over 21, making it a classic and enduring casino favorite.
